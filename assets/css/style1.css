@@ -1,0 +1,27 @@
+
+.dark-select {
+    background-color: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    color: white;
+    border-color: rgba(255,255,255,0.2);
+}
+.dark-select option {
+    background-color: #1e293b;
+    color: white;
+}
+.glass-card {
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.2);
+}
+.btn-add {
+    background-color: rgba(37, 99, 235, 0.7);
+    backdrop-filter: blur(10px);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+}
+.btn-add:hover {
+    background-color: rgba(29, 78, 216, 0.8);
+}
