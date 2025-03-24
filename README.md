@@ -13,24 +13,7 @@
 - [![](https://img.shields.io/badge/php-7.1.8-673AB7.svg)](https://www.php.net/) 
 - [![](https://img.shields.io/badge/mysql-5.0.12-yellow.svg)](https://www.mysql.com/) 
 
-## Screenshot
 
-- ### Web
-    
-    ![](./ss/a.PNG)
-    
-    ![](./ss/b.PNG)
-    
-    ![](./ss/c.PNG)
-    
-    ![](./ss/d.PNG)
-    
-    ![](./ss/e.PNG)
-    
-    ![](./ss/f.PNG)
-    
-    ![](./ss/g.PNG)
-    
 ## License
 > This program is Free Software: 
 You can use, study, share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) 
